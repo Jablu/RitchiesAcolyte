@@ -1,0 +1,36 @@
+﻿body {
+    margin:0px;
+    background-color:#d8d8d8;
+}
+
+.headPanel {
+    width: 100%;
+    min-height: 60px;
+    background-color: #fff;
+    vertical-align:middle;
+    display:table;
+    
+}
+.brandHead {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 24px;
+    font-family: 'Segoe UI';
+    height: 60px;
+    background-color: white;
+}
+
+
+.navPanel {
+    width: 100%;
+    background-color: #565656;
+    min-height: 40px;
+}
+
+#signButton {
+    color: white;
+    font-size:18px;
+    width: 200px;
+    text-align: center;
+    background-color: #460F54;
+}
